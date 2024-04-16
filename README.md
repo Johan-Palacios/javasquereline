@@ -1,6 +1,6 @@
 # Lines in Java using Swing
 # Description es
-Boock: Java cómo programar, 10ed - Deitel & Deitel 2016
+Book: Java cómo programar, 10ed - Deitel & Deitel 2016
 Ejercicios del caso de estudio de GUI y gráficos 
 
 [Link al Codigo](https://github.com/Johan-Palacios/javasquereline)
